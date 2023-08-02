@@ -25,9 +25,6 @@
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Sudheer@1423</sonar.password>
 		
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.reporting.outEncoding>UTF-8</project.reporting.outputEncoding>
-		
 	</properties>
 
 	<dependencies>
